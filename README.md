@@ -1,30 +1,26 @@
-[![Watch tutorial here](https://img.youtube.com/vi/sUKptmUVIBM/0.jpg)](https://youtu.be/sUKptmUVIBM)
+# Portfolio
 
-# [Watch video here](https://youtu.be/sUKptmUVIBM)
+Welcome to my portfolio repository!
 
-## What you will learn
+This repository contains the code for my personal portfolio website, showcasing my projects, skills, and experiences as a software developer.
 
-- Latest Next.js 13 features
-- Next.js App Router
-- Next.js Server Actions
-- Client & Server Components
-- TypeScript (Beginner & Intermediate)
-- Tailwind CSS
-- Context API
-- Advanced Animations with Framer Motion
-- React.Email & Resend
-- Custom React hooks
-- Fresh, modern UI design
-- Light & Dark mode
-- Responsive website
+## Table of Contents
 
-## Important
+- [About](#about)
+- [Technologies Used](#technologies-used)
 
-If you want to be a professional developer, you have to know the fundamentals like JavaScript and CSS really well. I highly recommend you go through my [Professional JavaScript](https://bytegrad.com/courses/professional-javascript) and [Professional CSS](https://bytegrad.com/courses/professional-css) courses.
+## About
 
-I'm close to releasing a complete React & Next.js course. Get on the email list to receive early-bird pricing: [link](https://email.bytegrad.com/).
+This portfolio is designed to exhibit my work, skills, and experiences in software development. It includes details about my projects, tech stack, and a bit about myself. Feel free to explore and get in touch if you're interested in collaborating or discussing potential opportunities.
 
-## Setup
+## Technologies Used
 
-1. Add RESEND_API_KEY environment variable in .env.local
-2. In the send-email.ts action file, change the "to" email to your own email
+- HTML
+- CSS
+- JavaScript
+- React
+- Next.js
+- Node.js
+- MongoDB
+- TypeScript
+- Prisma
